@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    background-color: rgb(63, 100, 223);
+    color: white;
+    border-bottom: 3px solid orange;
+}
+#about{
+    background-color: lightblue;
+    border: 2x;
+    border-style: dotted;
+}
+#courses{
+background-color: cornsilk;
+border: 2px dashed magenta;
+}
+#admission{
+    background-color: lightcoral;
+    border: 3px solid greenyellow;
+}
+.input{
+    border: 2px solid rebeccapurple;
+    width: 100%;
+}
+button{
+    background-color: red;
+}
+#footer{
+    border-top: 3px solid orange;
+      text-align: center;
+    background-color: rgb(63, 100, 223);
+    color: white;
+
+}
